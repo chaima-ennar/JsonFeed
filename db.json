@@ -1,0 +1,268 @@
+{
+  "rss": {
+    "-xmlns:atom": "http://www.w3.org/2005/Atom",
+    "-xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "-version": "2.0",
+    "-xml:base": "https://www.courrierinternational.com/",
+    "parsererror": {
+      "-style": "display: block; white-space: pre; border: 2px solid #c77; padding: 0 1em 0 1em; margin: 1em; background-color: #fdd; color: black",
+      "h3": [
+        "This page contains the following errors:",
+        "Below is a rendering of the page up to the first error."
+      ],
+      "div": {
+        "-style": "font-family:monospace;font-size:12px",
+        "#text": "error on line 119 at column 8: Extra content at the end of the document
+"
+      }
+    },
+    "channel": {
+      "title": "Courrier international - Actualités France et Monde, vidéos, infographies",
+      "description": "Derniers articles parus sur Courrier international",
+      "link": "https://www.courrierinternational.com/",
+      "atom:link": {
+        "-rel": "self",
+        "-href": "https://www.courrierinternational.com/feed/all/rss.xml"
+      },
+      "language": "fr",
+      "image": {
+        "url": "https://www.courrierinternational.com/sites/ci_master/themes/ci/images/courrier-logo-default-rss.png",
+        "title": "Courrier international - Actualités France et Monde, vidéos, infographies",
+        "link": "https://www.courrierinternational.com/",
+        "width": "144",
+        "height": "30"
+      },
+      "pubDate": "Thu, 19 Apr 2018 10:05:26 +0200",
+      "lastBuildDate": "Thu, 19 Apr 2018 10:35:11 +0200",
+      "item": [
+        {
+          "title": "Vu des États-Unis. Les missions pas si impossibles de Macron",
+          "link": "https://www.courrierinternational.com/une/vu-des-etats-unis-les-missions-pas-si-impossibles-de-macron",
+          "enclosure": {
+            "-url": "https://www.courrierinternational.com/sites/ci_master/files/assets/images/400x-1.jpg",
+            "-length": "48704",
+            "-type": "image/jpeg"
+          },
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://www.courrierinternational.com/une/vu-des-etats-unis-les-missions-pas-si-impossibles-de-macron"
+          },
+          "pubDate": "Thu, 19 Apr 2018 10:05:26 +0200",
+          "source": {
+            "-url": "https://www.courrierinternational.com/feed/all/rss.xml",
+            "#text": "Courrier international - Actualités France et Monde, vidéos, infographies"
+          },
+          "dc:title": "Vu des États-Unis. Les missions pas si impossibles de Macron",
+          "dc:publisher": "Bloomberg Businessweek - New York"
+        },
+        {
+          "title": "Pendant que vous dormiez. 70 ans d’Israël, appel de Lula et élections en Turquie : les informations de la nuit",
+          "link": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-70-ans-disrael-appel-de-lula-et-elections-en-turquie-les",
+          "enclosure": {
+            "-url": "https://www.courrierinternational.com/sites/ci_master/files/assets/images/rtx5sed3.jpg",
+            "-length": "1863867",
+            "-type": "image/jpeg"
+          },
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-70-ans-disrael-appel-de-lula-et-elections-en-turquie-les"
+          },
+          "pubDate": "Thu, 19 Apr 2018 06:17:27 +0200",
+          "source": {
+            "-url": "https://www.courrierinternational.com/feed/all/rss.xml",
+            "#text": "Courrier international - Actualités France et Monde, vidéos, infographies"
+          },
+          "dc:title": "Pendant que vous dormiez. 70 ans d’Israël, appel de Lula et élections en Turquie : les informations de la nuit",
+          "dc:publisher": "Courrier international - Paris"
+        },
+        {
+          "title": "Brexit. Camouflet pour Theresa May à la Chambre des lords",
+          "link": "https://www.courrierinternational.com/article/brexit-camouflet-pour-theresa-may-la-chambre-des-lords",
+          "description": "Vingt-quatre élus conservateurs ont voté en faveur d’un amendement au projet de loi sur le retrait de l’Union européenne donnant la possibilité au Royaume-Uni de rester au sein de l’union douanière. Ils s’opposent ainsi directement à leur leader.",
+          "enclosure": {
+            "-url": "https://www.courrierinternational.com/sites/ci_master/files/assets/images/rtx4y03i.jpg",
+            "-length": "7567489",
+            "-type": "image/jpeg"
+          },
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://www.courrierinternational.com/article/brexit-camouflet-pour-theresa-may-la-chambre-des-lords"
+          },
+          "pubDate": "Thu, 19 Apr 2018 03:42:00 +0200",
+          "source": {
+            "-url": "https://www.courrierinternational.com/feed/all/rss.xml",
+            "#text": "Courrier international - Actualités France et Monde, vidéos, infographies"
+          },
+          "dc:title": "Brexit. Camouflet pour Theresa May à la Chambre des lords",
+          "dc:publisher": "Courrier international - Paris"
+        },
+        {
+          "title": "Nouvelle pénurie d’argent liquide en Inde",
+          "link": "https://www.courrierinternational.com/revue-de-presse/nouvelle-penurie-dargent-liquide-en-inde",
+          "description": "Les spéculations vont bon train après l’annonce d’une rupture de stock de billets de banque dans de nombreux distributeurs du sous-continent. Le gouvernement Modi fait tourner la planche à billets pour y remédier.",
+          "enclosure": {
+            "-url": "https://www.courrierinternational.com/sites/ci_master/files/assets/images/rtsvbdm.jpg",
+            "-length": "2964796",
+            "-type": "image/jpeg"
+          },
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://www.courrierinternational.com/revue-de-presse/nouvelle-penurie-dargent-liquide-en-inde"
+          },
+          "pubDate": "Wed, 18 Apr 2018 15:51:11 +0200",
+          "source": {
+            "-url": "https://www.courrierinternational.com/feed/all/rss.xml",
+            "#text": "Courrier international - Actualités France et Monde, vidéos, infographies"
+          },
+          "dc:title": "Nouvelle pénurie d’argent liquide en Inde",
+          "dc:publisher": "Courrier international - Paris"
+        },
+        {
+          "title": "À Anvers, un candidat juif orthodoxe renonce à se présenter aux élections communales",
+          "link": "https://www.courrierinternational.com/article/anvers-un-candidat-juif-orthodoxe-renonce-se-presenter-aux-elections-communales",
+          "description": "L’annonce de sa candidature avait fait grand bruit : Aron Berger a finalement renoncé à se présenter aux élections communales à Anvers. Juif orthodoxe, il avait notamment déclaré qu’il refusait de serrer la main aux femmes.",
+          "enclosure": {
+            "-url": "https://www.courrierinternational.com/sites/ci_master/files/assets/images/aron_berger.png",
+            "-length": "2337460",
+            "-type": "image/png"
+          },
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://www.courrierinternational.com/article/anvers-un-candidat-juif-orthodoxe-renonce-se-presenter-aux-elections-communales"
+          },
+          "pubDate": "Wed, 18 Apr 2018 15:31:49 +0200",
+          "source": {
+            "-url": "https://www.courrierinternational.com/feed/all/rss.xml",
+            "#text": "Courrier international - Actualités France et Monde, vidéos, infographies"
+          },
+          "dc:title": "À Anvers, un candidat juif orthodoxe renonce à se présenter aux élections communales",
+          "dc:publisher": "Courrier international - Paris"
+        },
+        {
+          "title": "Retour à l’âge de pierre avec Trump et Poutine",
+          "link": "https://www.courrierinternational.com/dessin/retour-lage-de-pierre-avec-trump-et-poutine",
+          "enclosure": {
+            "-url": "https://www.courrierinternational.com/sites/ci_master/files/assets/images/ruben_2018-04-17-7579_-_copie.jpg",
+            "-length": "5555435",
+            "-type": "image/jpeg"
+          },
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://www.courrierinternational.com/dessin/retour-lage-de-pierre-avec-trump-et-poutine"
+          },
+          "pubDate": "Wed, 18 Apr 2018 14:59:40 +0200",
+          "source": {
+            "-url": "https://www.courrierinternational.com/feed/all/rss.xml",
+            "#text": "Courrier international - Actualités France et Monde, vidéos, infographies"
+          },
+          "dc:title": "Retour à l’âge de pierre avec Trump et Poutine",
+          "dc:publisher": "Courrier international - Paris"
+        },
+        {
+          "title": "Vu de Belgrade et Zagreb. “Macron contre les Balkans dans l’UE”",
+          "link": "https://www.courrierinternational.com/article/vu-de-belgrade-et-zagreb-macron-contre-les-balkans-dans-lue",
+          "description": "À Strasbourg le 17 avril, le président français a remis à plus tard un élargissement de l’Union européenne à certains pays de l’ex-Yougoslavie, qu’appelle de ses vœux la Commission européenne.",
+          "enclosure": {
+            "-url": "https://www.courrierinternational.com/sites/ci_master/files/assets/images/2018-04-18_macron_0.png",
+            "-length": "2128527",
+            "-type": "image/png"
+          },
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://www.courrierinternational.com/article/vu-de-belgrade-et-zagreb-macron-contre-les-balkans-dans-lue"
+          },
+          "pubDate": "Wed, 18 Apr 2018 13:06:08 +0200",
+          "source": {
+            "-url": "https://www.courrierinternational.com/feed/all/rss.xml",
+            "#text": "Courrier international - Actualités France et Monde, vidéos, infographies"
+          },
+          "dc:title": "Vu de Belgrade et Zagreb. “Macron contre les Balkans dans l’UE”",
+          "dc:publisher": "Courrier international - Paris"
+        },
+        {
+          "title": "Pour la presse officielle chinoise, “l’homosexualité n’est pas une maladie !”",
+          "link": "https://www.courrierinternational.com/revue-de-presse/pour-la-presse-officielle-chinoise-lhomosexualite-nest-pas-une-maladie",
+          "description": "En censurant les contenus à caractère homosexuel, la plateforme chinoise de microblogging Weibo a déclenché une levée de boucliers. Fait inhabituel, cette campagne de protestation a été couronnée de succès – avec l’appui de la presse officielle.",
+          "enclosure": {
+            "-url": "https://www.courrierinternational.com/sites/ci_master/files/assets/images/rtsncpt.jpg",
+            "-length": "4278675",
+            "-type": "image/jpeg"
+          },
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://www.courrierinternational.com/revue-de-presse/pour-la-presse-officielle-chinoise-lhomosexualite-nest-pas-une-maladie"
+          },
+          "pubDate": "Wed, 18 Apr 2018 12:39:11 +0200",
+          "source": {
+            "-url": "https://www.courrierinternational.com/feed/all/rss.xml",
+            "#text": "Courrier international - Actualités France et Monde, vidéos, infographies"
+          },
+          "dc:title": "Pour la presse officielle chinoise, “l’homosexualité n’est pas une maladie !”",
+          "dc:publisher": "Courrier international - Paris"
+        },
+        {
+          "title": "Californie. Mort suspecte d’un homme noir tué de dizaines de balles par la police",
+          "link": "https://www.courrierinternational.com/article/californie-mort-suspecte-dun-homme-noir-tue-de-dizaines-de-balles-par-la-police",
+          "description": "Un jeune père a été abattu sur le parking d’un supermarché le 5 avril alors qu’il était au volant d’une voiture et qu’il ne portait apparemment pas d’arme. Le récit de la police est mis en doute.",
+          "enclosure": {
+            "-url": "https://www.courrierinternational.com/sites/ci_master/files/assets/images/_2018-04-18_barstow.png",
+            "-length": "1873037",
+            "-type": "image/png"
+          },
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://www.courrierinternational.com/article/californie-mort-suspecte-dun-homme-noir-tue-de-dizaines-de-balles-par-la-police"
+          },
+          "pubDate": "Wed, 18 Apr 2018 12:36:04 +0200",
+          "source": {
+            "-url": "https://www.courrierinternational.com/feed/all/rss.xml",
+            "#text": "Courrier international - Actualités France et Monde, vidéos, infographies"
+          },
+          "dc:title": "Californie. Mort suspecte d’un homme noir tué de dizaines de balles par la police",
+          "dc:publisher": "Courrier international - Paris"
+        },
+        {
+          "title": "Russie. Blocage de Telegram : la bataille de David contre Goliath",
+          "link": "https://www.courrierinternational.com/article/russie-blocage-de-telegram-la-bataille-de-david-contre-goliath",
+          "description": "Après le blocage, le 16 avril, de la messagerie sur le territoire russe, les médias moscovites s’inquiètent de l’évolution du contrôle d’Internet par les pouvoirs publics. La Russie est-elle en train de se mettre au diapason de la Chine ? Quant à Telegram, certains en font le héraut de la résistance des internautes russes.",
+          "enclosure": {
+            "-url": "https://www.courrierinternational.com/sites/ci_master/files/assets/images/033_3138279.jpg",
+            "-length": "6593854",
+            "-type": "image/jpeg"
+          },
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://www.courrierinternational.com/article/russie-blocage-de-telegram-la-bataille-de-david-contre-goliath"
+          },
+          "pubDate": "Wed, 18 Apr 2018 12:20:13 +0200",
+          "source": {
+            "-url": "https://www.courrierinternational.com/feed/all/rss.xml",
+            "#text": "Courrier international - Actualités France et Monde, vidéos, infographies"
+          },
+          "dc:title": "Russie. Blocage de Telegram : la bataille de David contre Goliath",
+          "dc:publisher": "Courrier international - Paris"
+        },
+        {
+          "title": "Une enzyme qui digère le plastique : la solution à la pollution ?",
+          "link": "https://www.courrierinternational.com/article/une-enzyme-qui-digere-le-plastique-la-solution-la-pollution",
+          "description": "Une équipe anglo-américaine a créé, par hasard, une version mutante d’une enzyme qui digère le plastique, découverte en 2016. Elle est désormais encore plus efficace.",
+          "enclosure": {
+            "-url": "https://www.courrierinternational.com/sites/ci_master/files/assets/images/image_bouteilles_article_18_04.jpg",
+            "-length": "2994065",
+            "-type": "image/jpeg"
+          },
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://www.courrierinternational.com/article/une-enzyme-qui-digere-le-plastique-la-solution-la-pollution"
+          },
+          "pubDate": "Wed, 18 Apr 2018 12:13:16 +0200",
+          "source": {
+            "-url": "https://www.courrierinternational.com/feed/all/rss.xml",
+            "#text": "Courrier international - Actualités France et Monde, vidéos, infographies"
+          },
+          "dc:title": "Une enzyme qui digère le plastique : la solution à la pollution ?"
+        }
+      ]
+    }
+  }
+}
